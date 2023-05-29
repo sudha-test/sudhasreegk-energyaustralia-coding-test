@@ -1,0 +1,32 @@
+{
+  "MusicFestival": [
+    {
+      "recordLabelname": "Record Label MusicFestivalListA",
+      "bands": [
+        {
+          "name": "Band ListA",
+          "bandName": ["DiwaliBand",
+            "RamzanBand",
+            "ChristmasBand"
+          ]
+        }
+      ]
+
+
+    },
+
+    {
+      "recordLabelname": "Record Label MusicFestivalListB ",
+      "bands": [
+        {
+          "name": "Band ListB",
+          "bandName": ["GaneshChaturthiBand",
+            "GoodFridayBand",
+            "EidBand"
+
+          ]
+        }
+      ]
+    }
+  ]
+}

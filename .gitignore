@@ -1,0 +1,4 @@
+target/
+/target/classes/com/flatirons/test/builder/pojo/*.class
+/.idea
+/target
